@@ -5,7 +5,7 @@ template:
         state: >
           {# -----> Language: 0 = German ; 1 = English ; 2 = Ελληνικά ; 3 = Italiano ; 4 = Français <----- #}
           {% set title = ["Lokale Wettervorhersage", "12hr Local Weather Forecast", "Τοπική πρόγνωση καιρού", "Previsioni meteorologiche locali", "Prévisions météorologiques locales"] %}
-          {{title[1]}}
+          {{title[4]}}
 
         attributes:
           language: >
