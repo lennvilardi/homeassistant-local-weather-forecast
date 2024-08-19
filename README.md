@@ -20,7 +20,7 @@ If you like this repository please leave a star ⭐
 * text prognosis
 * simple temperature forecast
 * extract general weather conditions
-* full english an german support
+* full english and german support (readded italian and added french)
 
 # Sensors
 Following sensors can be used:
