@@ -99,10 +99,11 @@ Les capteurs suivants peuvent être utilisés :
 * Direction du vent (optionnel)
 
 # Carte
-Version anglaise et allemande :
+Version anglaise / allemande et française :
 
 ![grafik](https://github.com/HAuser1234/homeassistant-local-weather-forecast/assets/122117318/3a4cb58b-617f-4a9a-8fb2-ec723a5b05c0)
 ![grafik](https://github.com/HAuser1234/homeassistant-local-weather-forecast/assets/122117318/19c8220a-4bfe-4a0f-a82a-c968cbfd5b31)
+![2024-08-20 17_16_33-Tableau de bord – Home Assistant — Mozilla Firefox](https://github.com/user-attachments/assets/5fb28ddc-0e33-45f7-8477-1bd4d6afd37a)
 
 # Installation
 Merci de contribuer à toute amélioration de la carte ou de l'algorithme, cela aide tout le monde !
